@@ -1,0 +1,8 @@
+site_name: "another-docs"
+site_description: "another-docs"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
